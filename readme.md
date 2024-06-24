@@ -1,10 +1,8 @@
-# 融合控制系统 一款集成上下位机的通讯系统  
+# Integrated Embedded Control System 
 
-## 系统介绍  
-    - 区分保护通讯和广播通讯
-    - 保护通讯为物理连接，要求时钟信号和数据完整性
-    - 广播通讯为协议连接，允许Wifi、i2c、i2s、串口等协议混用
-
-
-
-SLA光固化打印机
+## Introduction
+    - Wrapped as a Function Library
+    - Including CHANST Command Protocol and CHANST Broadcast Protocol
+    - Support for I2C, I2S, UART, and Wi-Fi communication protocols
+    - Support for Raspberry Pi, Orange Pi, STM32, ESP32, and Arduino
+    - Support for PNP machines, 3D printers, CNC routers, plotter machines, and inkjet printers
